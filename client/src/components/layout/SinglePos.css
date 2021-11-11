@@ -1,0 +1,17 @@
+
+.stattus {
+    background-color: hotpink;
+}
+.status{
+    background-color: rgb(30, 155, 155);
+}
+
+.success{
+background-color: rgb(113, 191, 228);
+}
+.warning{
+    background-color:red;
+}
+.danger{
+    background-color: hotpink;
+}
